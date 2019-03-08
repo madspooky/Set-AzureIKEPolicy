@@ -23,4 +23,5 @@ Using this method will prompt you for all of the required parameters needed prio
 ![Example of it running as whole function](https://i.imgur.com/jRf8xtv.gif)
 
 You can also load the script up and run the individual functions. There is a parameter set that allows you to tab complete through the accepted values.
+
 ![Tab completion](https://i.imgur.com/OHGrspp.gif)
